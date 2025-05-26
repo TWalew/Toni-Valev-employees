@@ -1,0 +1,23 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Toni-Valev-employees",
+    "version": "1.0"
+  },
+  "paths": {
+    "/employees/upload": {
+      "post": {
+        "tags": [
+          "EmployeesControler"
+        ],
+        "operationId": "PostEmployees",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

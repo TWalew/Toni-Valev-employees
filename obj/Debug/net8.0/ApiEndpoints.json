@@ -1,0 +1,13 @@
+[
+  {
+    "ContainingType": "Toni_Valev_employees.Controllers.EmployeesControler",
+    "Method": "Post",
+    "RelativePath": "employees/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "PostEmployees"
+  }
+]

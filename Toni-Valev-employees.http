@@ -1,0 +1,6 @@
+@Toni_Valev_employees_HostAddress = http://localhost:5188
+
+GET {{Toni_Valev_employees_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

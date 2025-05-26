@@ -1,0 +1,1 @@
+export { GlobalStore } from "./store";
